@@ -1,0 +1,11 @@
+# Set theme to monokai
+eco monokai
+
+# Curvy lines
+e scr.utf8.curvy = true
+
+# Describe every instruction
+e asm.describe = true
+
+# Pseudo code instead of assembly
+# e asm.pseudo = true
